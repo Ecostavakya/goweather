@@ -1,0 +1,17 @@
+C:\Users\mert-\Desktop\project\Weatherapp\Weatherapp\bin\Debug\net6.0\Weatherapp.exe
+C:\Users\mert-\Desktop\project\Weatherapp\Weatherapp\bin\Debug\net6.0\Weatherapp.deps.json
+C:\Users\mert-\Desktop\project\Weatherapp\Weatherapp\bin\Debug\net6.0\Weatherapp.runtimeconfig.json
+C:\Users\mert-\Desktop\project\Weatherapp\Weatherapp\bin\Debug\net6.0\Weatherapp.dll
+C:\Users\mert-\Desktop\project\Weatherapp\Weatherapp\bin\Debug\net6.0\Weatherapp.pdb
+C:\Users\mert-\Desktop\project\Weatherapp\Weatherapp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\mert-\Desktop\project\Weatherapp\Weatherapp\obj\Debug\net6.0\Weatherapp.csproj.AssemblyReference.cache
+C:\Users\mert-\Desktop\project\Weatherapp\Weatherapp\obj\Debug\net6.0\Weatherapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mert-\Desktop\project\Weatherapp\Weatherapp\obj\Debug\net6.0\Weatherapp.AssemblyInfoInputs.cache
+C:\Users\mert-\Desktop\project\Weatherapp\Weatherapp\obj\Debug\net6.0\Weatherapp.AssemblyInfo.cs
+C:\Users\mert-\Desktop\project\Weatherapp\Weatherapp\obj\Debug\net6.0\Weatherapp.csproj.CoreCompileInputs.cache
+C:\Users\mert-\Desktop\project\Weatherapp\Weatherapp\obj\Debug\net6.0\Weatherapp.csproj.CopyComplete
+C:\Users\mert-\Desktop\project\Weatherapp\Weatherapp\obj\Debug\net6.0\Weatherapp.dll
+C:\Users\mert-\Desktop\project\Weatherapp\Weatherapp\obj\Debug\net6.0\refint\Weatherapp.dll
+C:\Users\mert-\Desktop\project\Weatherapp\Weatherapp\obj\Debug\net6.0\Weatherapp.pdb
+C:\Users\mert-\Desktop\project\Weatherapp\Weatherapp\obj\Debug\net6.0\Weatherapp.genruntimeconfig.cache
+C:\Users\mert-\Desktop\project\Weatherapp\Weatherapp\obj\Debug\net6.0\ref\Weatherapp.dll
